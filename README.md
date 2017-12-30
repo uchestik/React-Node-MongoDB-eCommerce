@@ -10,3 +10,5 @@ To test this project locally there are a few steps
 3) In the command line run 'mongod' to start MongoDB
 4) In a different Terminal / command line run 'node server.js' to start the Node.js server
 5) In a different Terminal / Command line run 'npm start' to boot react app. Make sure app is running on a port thats not port 3000
+
+DESKTOP VIEW ONLY - 4 hour project. Did not have time to optimize for mobile.
